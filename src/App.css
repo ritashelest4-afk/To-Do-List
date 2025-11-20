@@ -22,7 +22,7 @@ h1 {
 }
 
 .crossed {
-   background: #febd44;
+   background: #fe6944;
    color:black; 
    font-weight: bold;
    text-decoration: line-through;
@@ -33,6 +33,7 @@ h1 {
    padding: 16px;
    border: 2px solid black;
    width: 90vh;
+   font-size: 20px;
 }
 
 ul, li {
@@ -65,6 +66,8 @@ ul, li {
    border-bottom: 1px solid #A59D84;
    margin: 10px;
 }
+
+
 
 @media all and (max-width: 800px) {
    h1 {

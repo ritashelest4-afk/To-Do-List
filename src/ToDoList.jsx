@@ -50,7 +50,7 @@ export class ToDoList extends Component {
             <div className="container">
                <button onClick={() => this.addItem(this.state.userInput)} className="btn add">Добавить!</button>
             </div>
-            <ul>
+            <ul >
                {this.state.toList.map((item, index) =>
                 (<li onClick={this.crossedWord} key={index} className="todoAdded">{item}</li>
                 ))}
