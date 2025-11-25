@@ -17,6 +17,12 @@
 4. Responsive design
 5. Develop applications that are user-friendly 
 
+### My project provides the following interface:
+
+![Application main screen](src/assets/work.png)
+
+![Demo application](src/assets/to-do-list_edit_0.gif)
+
 #### Installation
 
 1. Clone the repository:
